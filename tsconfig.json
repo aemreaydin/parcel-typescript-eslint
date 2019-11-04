@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noImplicitAny": true
+    },
+    "include": ["src/**/*"],
+    "parcel-plugin-typescript": {
+        "transpileOnly": false
+    }
+}
